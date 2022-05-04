@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @EssakiMuthu
-Enthusiastic technologist, Senior data engineering, data engineer (touch of data science) and fan of Apache Spark.
+Enthusiastic technologist, Senior data engineer, data engineer (touch of data science) and fan of Apache Spark.
 
 ## 👀 I’m interested in ...
 - Continuing to learning and develop the best data engineering solutions on the Apache Spark platform.
